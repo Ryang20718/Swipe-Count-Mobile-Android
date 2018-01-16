@@ -1,0 +1,4 @@
+SwipeCTDroid.MainActivity, SwipeCT-Droid;md5693f7c96590c9c4522c08c122908356e.MainActivity
+SwipeCTDroid.MainActivity, SwipeCT-Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5693f7c96590c9c4522c08c122908356e.MainActivity
+SwipeCTDroid.MainActivity;md5693f7c96590c9c4522c08c122908356e.MainActivity
+swipectdroid.MainActivity;md5693f7c96590c9c4522c08c122908356e.MainActivity

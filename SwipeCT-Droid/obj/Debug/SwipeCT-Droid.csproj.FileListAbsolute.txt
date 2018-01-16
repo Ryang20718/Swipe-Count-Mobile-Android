@@ -1,0 +1,13 @@
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/bin/Debug/SwipeCT-Droid.dll
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/bin/Debug/SwipeCT-Droid.pdb
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/bin/Debug/com.companyname.SwipeCT_Droid.apk
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/bin/Debug/com.companyname.SwipeCT_Droid-Signed.apk
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/SwipeCT-Droid.csproj.CoreCompileInputs.cache
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/SwipeCT-Droid.dll
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/SwipeCT-Droid.pdb
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/android/bin/com.companyname.SwipeCT_Droid.apk
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/res/layout/main.xml
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/res/values/strings.xml
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/R.cs.flag
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/uploadflags.txt
+/Users/ryanyang/Desktop/SwipeCT-Droid/SwipeCT-Droid/obj/Debug/SwipeCT-Droid.csprojResolveAssemblyReference.cache
