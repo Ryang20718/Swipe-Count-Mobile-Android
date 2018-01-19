@@ -5,3 +5,4 @@ Frameworks and Software used: Xamarin Android/C#
 
 
 IOS version of the app can be found here: https://github.com/Ryang20718/SwipeCount-Mobile-IOS
+Web version of the app can be found here: http://ryanyang.me/SwipeCount/
